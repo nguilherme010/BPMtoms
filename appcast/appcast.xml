@@ -2,7 +2,7 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>BPM to ms</title>
-        <link>https://netsparkleupdater.github.io/NetSparkle/files/sample-app/appcast.xml</link>
+        <link>https://github.com/nguilherme010/BPMtoms/blob/main/appcast/appcast.xml</link>
         <description>BPMtoms first build</description>
         <language>en</language>
         <item>
