@@ -8,7 +8,7 @@
         <item>
             <title>Version 1.0</title>
             <sparkle:releaseNotesLink>
-            https://netsparkleupdater.github.io/NetSparkle/files/sample-app/2.0-release-notes.md
+            https://github.com/nguilherme010/BPMtoms/blob/main/appcast/releasenotes-1.0.md
             </sparkle:releaseNotesLink>
             <pubDate>Thu, 27 Oct 2016 10:30:00 +0000</pubDate>
             <enclosure url="https://netsparkleupdater.github.io/NetSparkle/files/sample-app/NetSparkleUpdate.exe"
