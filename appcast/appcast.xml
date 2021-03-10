@@ -6,17 +6,11 @@
         <description>BPMtoms first build</description>
         <language>en</language>
         <item>
-            <title>Version 1.0</title>
-            <sparkle:releaseNotesLink>
-            https://github.com/nguilherme010/BPMtoms/blob/main/appcast/releasenotes-1.0.md
-            </sparkle:releaseNotesLink>
-            <pubDate>Thu, 27 Oct 2016 10:30:00 +0000</pubDate>
-            <enclosure url="https://netsparkleupdater.github.io/NetSparkle/files/sample-app/NetSparkleUpdate.exe"
-                       sparkle:version="2.0"
-                       sparkle:os="windows"
-                       length="12608"
-                       type="application/octet-stream"
-                       sparkle:signature="AvYuH/WGmO1rq8e1kW4clhnGAW3P7oYO8mj9np0AnXtpWblIX1MsD60FaeEHeG2BtOV9dmGOcEQiqIG6pggOAg==" />
-        </item>
+  		<title>Version 1.0</title>
+  		<sparkle:releaseNotesLink>https://github.com/nguilherme010/BPMtoms/blob/main/appcast/releasenotes-1.0.md</sparkle:releaseNotesLink>
+  		<pubDate>Wed, 10 fev 2021 13:47:00 +0500</pubDate>
+  		<sparkle:version>1.2.4</sparkle:version>
+  		<link>https://example.com/manual_update_info.html</link>
+	</item>
     </channel>
 </rss>
