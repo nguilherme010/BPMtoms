@@ -36,7 +36,7 @@
 
 #
    <p align="center">
-  Financial support for keyboards broken in development is very welcome, aswell:
+  Financial support for keyboards broken in development are very welcome, aswell:
   </p>
      <p align="center">
   ✨
