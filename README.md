@@ -5,8 +5,8 @@
   
 
    <p align="center"> 
-  
-  
+
+
   BPM to ms is, well, as the name suggests, a BPM to ms converter. A shortcut for music production, so you don't have to remember formulas or access websites. **Open source** software, feel free to create your own bugs! 🐞
   
   
@@ -14,7 +14,7 @@
 
 
   
-
+#
    <p align="center">
      <img alt="BPM to ms app preview" src="https://github.com/nguilherme010/BPMtoms/blob/main/Artwork/BPMtoms%20print.jpg">
    </p>
@@ -46,4 +46,3 @@
         <img alt="Paypal donation button" src="https://img.shields.io/badge/Donate-PayPal-green.svg">
       </a>
   </div>
-   
