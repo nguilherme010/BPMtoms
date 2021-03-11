@@ -21,6 +21,9 @@
    
    
   #
+
+   <p align="center">If you want to support us developing this tool (and upcoming ones), please, give us feedback, talk with us, tell us about your life, lets trade virtual hugs, smiles, kind words:
+  </p>
    <p align="center">
   ❤️
   </p>
@@ -29,9 +32,6 @@
         <img alt="Gmail contact button" src="https://img.shields.io/badge/Contact-Gmail-red">
       </a>
   </div>
-   <p align="center">If you want to support us developing this tool (and upcoming ones), please, give us feedback, talk with us, tell us about your life, lets trade virtual hugs, smiles, kind words:
-  </p>
-
 
 
 #
