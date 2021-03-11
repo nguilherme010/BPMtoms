@@ -33,6 +33,8 @@
       </a>
   </div>
 
+
+#
    <p align="center">
   Financial support for keyboards broken in development is very welcome, aswell:
   </p>
