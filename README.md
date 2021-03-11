@@ -28,7 +28,7 @@
   ❤️
   </p>
       <div align="center">
-      <a href="https://www.paypal.com/donate?business=nguilherme010%40gmail.com&currency_code=USD">
+      <a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dnguilherme010%40gmail.com%26subject%3DHi%2520There%26">
         <img alt="Gmail contact button" src="https://img.shields.io/badge/Contact-Gmail-red">
       </a>
   </div>
