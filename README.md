@@ -50,6 +50,7 @@
   
   #
   <p align="center">There will be some talks about usage and development in my personal Instagram:</p>
+  📷
   <div align="center">
       <a href="https://www.instagram.com/selffearfulmind/">
         <img alt="Paypal donation button" src="https://img.shields.io/badge/-Instagram-orange">
