@@ -7,7 +7,7 @@
    <p align="center"> 
   
   
-  BPM to ms is, well, as the name suggests, a BPM to ms converter. A shortcut for music production, so you don't have to remember formulas or access websites. BPM to ms is an **open source** software, feel free to create your own bugs! 🐞
+  BPM to ms is, well, as the name suggests, a BPM to ms converter. A shortcut for music production, so you don't have to remember formulas or access websites. **Open source** software, feel free to create your own bugs! 🐞
   
   
   </p>
